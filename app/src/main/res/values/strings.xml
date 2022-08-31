@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Todo En Uno</string>
+    <string name="usuario">Ingresa el usuario</string>
+    <string name="contrasena">Ingresa la contraseña</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="continuar">Continuar</string>
+    <string name="saludo">Bienvenidos</string>
+    <string name="opciones">Opciones</string>
+    <string name="opctexto">Texto</string>
+    <string name="opcbotones">Botones</string>
+    <string name="opcwidgets">Widgets</string>
+    <string name="opclayouts">Layouts</string>
+    <string name="opccontainers">Containers</string>
+    <string name="opchelpers">Helpers</string>
+    <string name="opcgoogle">Google</string>
+    <string name="opclegacy">Legacy</string>
+    <string name="opcacercade">Acerca de</string>
+    <string name="opcsalir">Salir</string>
+    //strings para textos
+    <string name="texto">Texto básico</string>
+    <string name="textop">Texto plano</string>
+    <string name="textoPass">Password</string>
+    <string name="textoPassN">Password numérico</string>
+    <string name="textoemail">Email</string>
+    <string name="textophone">Phone</string>
+    <string name="textopostal">Postal</string>
+    <string name="textomultilinea">Multilinea</string>
+    <string name="textotiempo">Tiempo</string>
+    <string name="textonumerico">Numérico</string>
+    <string name="textodate">Fecha</string>
+    <string name="TSalir">Regresar</string>
+    //Strings para botones
+    <string name="boton">Botón normal</string>
+    <string name="botonimagen">Botón imagen</string>
+    <string name="botonchip">Botón chip</string>
+    <string name="botoncheck">Botón checkbox</string>
+    <string name="botonradio">Radio botón</string>
+    <string name="botontoggle">Toggle Botón</string>
+    <string name="botonswitch">Switch botón</string>
+    <string name="botonflotante">Botón flotante</string>
+    <string name="Bregresar">Regresar</string>
+    //string para layouts
+    <string name="Lregresar">Regresar</string>
+    //Strings para lo de Widgets
+    <string name="Wregresar">Regresar</string>
+    <string name="Wpaginaweb">Página web</string>
+    <string name="WVideo">Video</string>
+    <string name="Wcalendario">Calendario</string>
+    <string name="Wpuntuar">Puntuar</string>
+    //Strings para helpers
+    <string name="holamundo">holamundo</string>
+    <string name="boton1">Este es el botón número 1</string>
+    <string name="boton2">Este es el botón número 2</string>
+    <string name="boton3">Este es el botón número 3</string>
+    <string name="abcd"> A B C D E F G H I J K L M N O P Q R S T U V X Y Z</string>
+    <string name="group">Group y Barrier</string>
+    <string name="mockview">Mockview</string>
+    <string name="flow">Flow</string>
+    <string name="helpers">Helpers</string>
+    <string name="guideline">Guideline, Layer, ImageFilter</string>
+    <string name="Hregresar">Regresar</string>
+    //Strings para contenedores
+    <string name="Conregresar">Regresar</string>
+    //Strings para legacy
+    <string name="Ltexto">Grid Layout</string>
+
+
+
+</resources>
